@@ -28,7 +28,7 @@ Para cualquier cambio a realizar, simplemente editar para realizar el cambio y "
 ![phpBB Spain](http://www.phpbb-es.com/archivos/lucid.png) 
 ![phpBB Spain](http://www.phpbb-es.com/archivos/resp_lucid.png) 
 
-## [Demo Online - Rock'n Roll](http://area51.phpbb-es.com/foro/index.php?style=47)
+## [Demo Online - Pro Ubuntu Lucid](http://area51.phpbb-es.com/foro/index.php?style=47)
 
 ## License
 [GNU General Public License v2](http://opensource.org/licenses/GPL-2.0)
