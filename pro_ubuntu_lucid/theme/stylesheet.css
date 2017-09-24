@@ -683,6 +683,18 @@ dl.faq dd {
 	text-shadow: none;
 }
 
+/* Signature */
+.signature {
+    margin-top: 1.5em;
+    padding-top: 0.2em;
+    font-size: 1.1em;
+    border-top: 2px dashed #EB660C;
+    clear: left;
+    line-height: 140%;
+    overflow: hidden;
+    width: 100%;
+}
+
 /* Mini tabbed menu used in MCP
 ----------------------------------------*/
 .minitabs .tab > a {
