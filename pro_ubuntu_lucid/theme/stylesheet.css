@@ -162,6 +162,7 @@ hr.dashed {
 .bg1	{ background-color: #F2EEE6; }
 .bg2	{ background-color: #F0EBE2; }
 .bg3	{ background-color: #CABDA6; }
+.bg4	{ background-color: #6C3C55; }
 
 .ucprowbg {
 	background-color: #DCDEE2;
@@ -270,7 +271,7 @@ a:hover	{ color: #DD4814; }
 a:active	{ color: #565248; }
 
 /* Links on the top navbar */
-#page-header .navbar a { color: #FFFFFF;}
+#page-header .navbar a { color: #E9E9E9;}
 
 /* Links on gradient backgrounds */
 #search-box a:link, .navbg a:link, .forumbg .header a:link, .forabg .header a:link, th a:link {
@@ -681,6 +682,22 @@ dl.faq dd {
 	filter: none;
 	color: #FFFFFF;
 	text-shadow: none;
+}
+
+.dropdown-extended .header {
+    padding: 0 10px;
+    font-family: Arial, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    text-shadow: 1px 1px 1px #772953;
+    text-transform: uppercase;
+    line-height: 3em;
+    border-bottom: 1px solid;
+    border-radius: 5px 5px 0 0;
+}
+
+.dropdown-extended a.mark_read {
+    background-color: transparent;
 }
 
 /* Signature */
