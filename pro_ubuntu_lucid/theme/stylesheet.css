@@ -677,7 +677,7 @@ dl.faq dd {
 }
 
 .pagination li a:hover, .pagination li a:hover .icon, .pagination .dropdown-visible a.dropdown-trigger, .nojs .pagination .dropdown-container:hover a.dropdown-trigger {
-	background: #EB660C;
+	background: #A89279;
 	border-color: #EB660C;
 	filter: none;
 	color: #FFFFFF;
@@ -948,8 +948,8 @@ ul.cplist {
 /* jQuery popups
 ---------------------------------------- */
 .phpbb_alert {
-	background-color: #FFFFFF;
-	border-color: #999999;
+	background-color: #935675;
+	border-color: #E13F20;
 }
 .darken {
 	background-color: #000000;
@@ -965,7 +965,7 @@ ul.cplist {
 }
 
 .dropdown-extended ul li:hover {
-	background-color: #EB660C;
+	background-color: #a89279;
 	color: #000000;
 }
 
@@ -1231,6 +1231,10 @@ ul.topiclist li.row dl {
 	background-size: 5px;
 	background-position: 100% 0%;
     background-repeat: repeat-y;
+}
+
+.notification_list p.notification-time {
+    color: #FFFFFF;
 }
 
 /* Small changes responsive Pro Ubuntu Lucid - START */
