@@ -8,7 +8,7 @@
     --------------------------------------------------------------
 */
 
-@import url("docks.css");
+@import url("docks.css?v=3.2");
 
 html {
 	background-color: #3C3B37;
@@ -21,7 +21,6 @@ body {
 html, body {
 	color: #E9E9E9;
     background-color: #3B1830;
-	background-image: url("./images/bg.gif");
 	background-repeat: repeat-x;
 	background-attachment: fixed;
 	padding: 0;
@@ -1054,25 +1053,22 @@ dl.mini dt {
 }
 
 /* PM marking colours */
+
+/* DEPRECATED 3.2.6
 .pmlist li.pm_message_reported_colour, .pm_message_reported_colour {
-	border-left-color: #BC2A4D;
-	border-right-color: #BC2A4D;
+	border-left-color: transparent;
+	border-right-color: transparent;
 }
+*/
 
-.pmlist li.pm_marked_colour, .pm_marked_colour {
-	border-color: #FF6600;
-}
-
-.pmlist li.pm_replied_colour, .pm_replied_colour {
-	border-color: #A9B8C2;
-}
-
-.pmlist li.pm_friend_colour, .pm_friend_colour {
-	border-color: #5D8FBD;
-}
-
+.pmlist li.pm_message_reported_colour, .pm_message_reported_colour,
+.pmlist li.pm_marked_colour, .pm_marked_colour,
+.pmlist li.pm_replied_colour, .pm_replied_colour,
+.pmlist li.pm_friend_colour, .pm_friend_colour,
 .pmlist li.pm_foe_colour, .pm_foe_colour {
-	border-color: #000000;
+	padding: 0;
+	border: solid 3px transparent;
+	border-width: 0 3px;
 }
 
 /* Colours and backgrounds for forms.css */
