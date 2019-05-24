@@ -25,10 +25,10 @@ Requiere:
 Para cualquier cambio a realizar, simplemente editar para realizar el cambio y "Pull Request".
 
 ## Algunas capturas
-![phpBB Spain](http://www.phpbb-es.com/archivos/lucid.png) 
-![phpBB Spain](http://www.phpbb-es.com/archivos/resp_lucid.png) 
+![phpBB Spain](https://www.phpbb-es.com/archivos/lucid.png) 
+![phpBB Spain](https://www.phpbb-es.com/archivos/resp_lucid.png) 
 
-## [Demo Online - Pro Ubuntu Lucid](http://area51.phpbb-es.com/foro/index.php?style=47)
+## [Demo Online - Pro Ubuntu Lucid](https://www.phpbb-es.com/styles/demo/#pro_ubuntu_lucid)
 
 ## License
 [GNU General Public License v2](http://opensource.org/licenses/GPL-2.0)
@@ -38,6 +38,6 @@ Ishimaru Chiaki
 
 ThE KuKa (Raúl Arroyo Monzo)
 
-## © 2003 / 2018 [phpBB España](http://www.phpbb-es.com)
+## © 2003 / 2018 [phpBB España](https://www.phpbb-es.com)
 
-![phpBB Spain](http://www.phpbb-es.com/images/logo_es.png) 
+![phpBB Spain](https://www.phpbb-es.com/images/logo_es.png) 
