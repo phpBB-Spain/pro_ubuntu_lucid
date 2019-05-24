@@ -38,6 +38,6 @@ Ishimaru Chiaki
 
 ThE KuKa (Raúl Arroyo Monzo)
 
-## © 2003 / 2018 [phpBB España](https://www.phpbb-es.com)
+## © 2003 / 2019 [phpBB España](https://www.phpbb-es.com)
 
 ![phpBB Spain](https://www.phpbb-es.com/images/logo_es.png) 
