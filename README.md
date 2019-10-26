@@ -24,10 +24,6 @@ Requiere:
 ## Corrección de errores
 Para cualquier cambio a realizar, simplemente editar para realizar el cambio y "Pull Request".
 
-## Algunas capturas
-![phpBB Spain](https://www.phpbb-es.com/archivos/lucid.png) 
-![phpBB Spain](https://www.phpbb-es.com/archivos/resp_lucid.png) 
-
 ## [Demo Online - Pro Ubuntu Lucid](https://www.phpbb-es.com/styles/demo/#pro_ubuntu_lucid)
 
 ## License
